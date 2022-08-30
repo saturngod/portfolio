@@ -21,7 +21,7 @@ export default function Projects({ follower }) {
           </a>
         </ul>
       </Skill>
-      {follower}
+
       <Github follower={follower}></Github>
     </div>
   );
