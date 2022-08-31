@@ -13,21 +13,31 @@ export default function PhotoBar({ children, name, description }) {
         <div className="flex flex-wrap pt-3">
           <a
             href="https://www.twitter.com/saturngod"
+            target="_blank"
             className="pr-3 no-underline"
           >
             <i className="not-italic fa-brands fa-twitter"></i>
           </a>
           <a
             href="https://www.github.com/saturngod"
+            target="_blank"
             className="pr-3 no-underline"
           >
             <i className="not-italic fa-brands fa-github"></i>
           </a>
           <a
             href="https://www.youtube.com/user/saturngod66"
+            target="_blank"
             className="pr-3 no-underline"
           >
             <i className="not-italic fa-brands fa-youtube"></i>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/htainlinshwe/"
+            target="_blank"
+            className="pr-3 no-underline"
+          >
+            <i className="not-italic fa-brands fa-linkedin"></i>
           </a>
         </div>
       </div>
