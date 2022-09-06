@@ -15,6 +15,7 @@ export default function DevOps() {
       <Skill title="Server">
         <ul>
           <li>Apache</li>
+          <li>Caddy</li>
         </ul>
       </Skill>
 
@@ -26,6 +27,7 @@ export default function DevOps() {
 
       <Skill title="Other">
         <ul>
+          <li>Docker</li>
           <li>Redis</li>
           <li>Kafka</li>
           <li>ELK</li>
