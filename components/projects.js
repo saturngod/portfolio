@@ -3,7 +3,7 @@ import Github from "./github";
 
 export default function Projects({ follower }) {
   return (
-    <div>
+    <div className="pr-10 py-8 lg:py-0">
       <h2 className="text-2xl font-bold">Projects</h2>
 
       <Skill title="iOS">

@@ -3,7 +3,7 @@ import profilePic from "../public/images/hls.jpg";
 
 export default function PhotoBar({ children, name, description }) {
   return (
-    <div className="flex flex-nowrap w-screen">
+    <div className="flex flex-nowrap w-screen lg:px-0 px-2">
       <div className="relative w-32 h-32 overflow-hidden rounded-full ring-2  ring-white pl-3 pr-3">
         <Image objectFit="cover" layout="fill" src={profilePic} alt={name} />
       </div>

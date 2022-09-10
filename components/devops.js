@@ -2,7 +2,7 @@ import Skill from "./skill";
 
 export default function DevOps() {
   return (
-    <div className="pr-10">
+    <div className="pr-10 py-8 lg:py-0">
       <h2 className="text-2xl font-bold">DevOps</h2>
 
       <Skill title="Cloud Platform">
