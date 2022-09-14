@@ -30,7 +30,7 @@ export default function DevOps() {
           <li>Docker</li>
           <li>Redis</li>
           <li>Kafka</li>
-          <li>ELK</li>
+          <li>ELK Stack</li>
         </ul>
       </Skill>
     </div>

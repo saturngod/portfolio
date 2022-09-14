@@ -8,7 +8,6 @@ export default function Tech() {
       <Skill title="Mobile">
         <ul>
           <li>iOS (Swift, Objective-C)</li>
-          <li>Android (Kotlin)</li>
           <li>Cross Platform (Flutter)</li>
         </ul>
       </Skill>
@@ -31,7 +30,6 @@ export default function Tech() {
       <Skill title="Database">
         <ul>
           <li>MySQL</li>
-          <li>MongoDB</li>
         </ul>
       </Skill>
 
@@ -39,7 +37,6 @@ export default function Tech() {
         <ul>
           <li>NodeJS</li>
           <li>Python</li>
-          <li>Golang</li>
         </ul>
       </Skill>
     </div>
