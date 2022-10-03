@@ -8,7 +8,7 @@ export default function Experience() {
         <li className="mb-4">
           <ExpInfo
             company="COMQUAS"
-            position="Founder"
+            position="Tech Lead"
             from="Nov 2016"
             to="Present"
           ></ExpInfo>

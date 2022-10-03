@@ -15,13 +15,7 @@ export default function Home({ user }) {
             description="Tech Lead, iOS/Flutter/PHP Developer"
           ></PhotoBar>
         </div>
-        <div className="pt-4 pb-4 text-sm px-2 lg:px-0 text-justify">
-          Founded COMQUAS at 2016. We focus on the mobile app development. For
-          the backend, we are using the PHP laravel. Some of the projects are
-          using the Golang. Sometime we use python, nodejs at the service.
-          Working as not only founder but also Tech lead for my own startup. We
-          have few product like SMSKit, SMS services for our clients.
-        </div>
+        <div className="pt-4 pb-4 text-sm px-2 lg:px-0 text-justify"></div>
         <div className="flex pt-4 flex-col md:flex-row w-screen m-3">
           <Education></Education>
           <Tech></Tech>
